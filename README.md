@@ -63,3 +63,6 @@ qiuhaoli@VM:~/tmp/oslab/linux-0.11$ make && ../run
 
 The Linux 0.11 kernel is supported by [system software](https://en.wikipedia.org/wiki/System_software) and [libraries](https://en.wikipedia.org/wiki/Library_(computer_science)), many of which are provided by the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project) and the [MINIX](https://en.wikipedia.org/wiki/MINIX) operating system.
 
+
+## original
+[通过9个Linux-0.11实验学习操作系统](https://www.cnblogs.com/liqiuhao/p/12128070.html)
